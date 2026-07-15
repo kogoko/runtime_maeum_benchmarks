@@ -1,6 +1,8 @@
 # 실행별 상세 (14건 전체)
 
-형식: 출력토큰 · tok/s · TTFT | 💭=추론모드 ON | 원문·응답 전문은 같은 폴더 runs/<id>.json
+[English](runs_detail.md) | **한국어**
+
+형식: 출력토큰 · tok/s · TTFT | 💭=추론모드 ON | 원문·응답 전문은 runs/<id>.json
 
 | 시각 | 💭 | 쿼리 | MAEUM·Qwen | MAEUM·Gemma | Ollama·Qwen | Ollama·Gemma |
 |---|---|---|---|---|---|---|

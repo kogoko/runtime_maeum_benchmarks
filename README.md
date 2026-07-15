@@ -40,7 +40,7 @@ MAEUM Runtime vs raw Ollama, 4 panels streaming simultaneously. 14 runs, all pub
 context assembly, and our #1 optimization target. We publish the metrics we lose, so you can trust
 the ones we win.
 
-→ **[Full report](data/20260716_maeum_vs_ollama/README.md)** · [Per-run detail table](data/20260716_maeum_vs_ollama/실행별_상세.md)
+→ **[Full report](data/20260716_maeum_vs_ollama/README.md)** · [Per-run detail table](data/20260716_maeum_vs_ollama/runs_detail.md)
 
 ---
 
@@ -66,7 +66,7 @@ diagnosed (may be serving defaults/template) · truncation detection is heuristi
 
 The runtime itself is currently in **private beta** (patent-pending components).
 
-- 🎬 Demo videos: see the pinned posts on [LinkedIn — Lee, DongHun](https://www.linkedin.com/in/donghunlee-princeps)
+- 🎬 Demo videos: [`videos/`](videos/) (paired 1:1 with run records) · pinned posts on [LinkedIn — Lee, DongHun](https://www.linkedin.com/in/donghunlee-princeps)
 - 🤝 Demo / licensing / partnership inquiries: **[LinkedIn](https://www.linkedin.com/in/donghunlee-princeps) or GitHub issues**
 - 🧭 Positioning: not a model loader — a runtime. Web RAG + session/personal memory +
   token-budget context management + auto reasoning modes + white-label identity,
